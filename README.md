@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s23/jpa02-KaneD985
 
-Deployed at: https://jpa02-KaneD985.herokuapp.com
+Deployed at: https://jpa02h-ydeng672.herokuapp.com
 
 
 # About this repo
